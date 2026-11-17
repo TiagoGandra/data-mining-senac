@@ -1,0 +1,11 @@
+# Versões usadas para validar os notebooks (nov/2026). No Colab, a maioria já vem instalada.
+pandas>=3.0
+numpy>=2.0
+scikit-learn>=1.8
+matplotlib>=3.10
+spacy>=3.8
+nltk>=3.9
+sentence-transformers>=6.0
+umap-learn>=0.5
+# modelo de português do spaCy (o notebook baixa sozinho se faltar):
+# python -m spacy download pt_core_news_sm

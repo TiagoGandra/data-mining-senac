@@ -1,0 +1,15 @@
+# Ambiente
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Dados e artefatos gerados (o dataset é lido direto do GitHub da Americanas)
+*.csv
+*.npy
+*.pkl
+dados/
+
+# Segredos: chave do Gemini nunca vai para o repositório
+.env
+*.key
