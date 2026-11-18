@@ -54,8 +54,9 @@ Em grupo:
 4. **Pipeline de pré-processamento** com cada decisão justificada, e um exemplo de algo que a limpeza apagaria e não deveria.
 5. Representar os textos com **TF-IDF** e com **embeddings**.
 6. **Busca:** para três consultas (por exemplo, "o produto não chegou"), comparar os 5 resultados mais próximos com TF-IDF e com embeddings.
+7. **Individual:** calcular à mão o TF-IDF de três termos em uma avaliação do corpus, usando os DFs reais da amostra, e explicar em um parágrafo uma decisão de pré-processamento do grupo. Cada integrante responde na sua subseção do Item 7 do notebook.
 
-Individual: calcular à mão o TF-IDF de três termos em uma avaliação do corpus, usando os DFs reais da amostra, e explicar em um parágrafo uma decisão de pré-processamento do grupo.
+A seção **Etapa 1** do Notebook 01 traz os 7 itens nesta ordem, cada um com instruções, uma célula de código comentada e uma célula para as respostas.
 
 ### Etapa 2: Descobrir ou classificar
 **Laboratório 25/11 · entrega até 30/11, 23h59**
