@@ -48,7 +48,7 @@ Grupos que quiserem usar outro corpus público em português (mínimo de 5.000 d
 **Laboratório 18/11 · entrega até 23/11, 23h59**
 
 Em grupo:
-1. Amostrar o dataset (sugestão: 20 mil avaliações) e justificar a amostra.
+1. Amostrar o dataset e justificar a amostra. **A amostra é do grupo:** semente diferente de 42 e tamanho diferente de 20 mil (os valores usados em aula); o critério (aleatória, estratificada por nota ou por categoria) é livre, desde que justificado.
 2. Análise exploratória: distribuição de notas, comprimento dos textos, vazios e duplicados.
 3. **Catálogo de sujeira:** ler 30 avaliações e registrar os problemas encontrados (abreviações, caixa alta, erros, emojis, dados pessoais).
 4. **Pipeline de pré-processamento** com cada decisão justificada, e um exemplo de algo que a limpeza apagaria e não deveria.
