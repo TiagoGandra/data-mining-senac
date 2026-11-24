@@ -15,14 +15,14 @@ Enunciado completo, critérios e pesos: [`projeto/enunciado.md`](projeto/enuncia
 | Semana | Notebook | Conteúdo | Etapa do projeto |
 |---|---|---|---|
 | 17 e 18/11 | [`01_do_texto_ao_vetor.ipynb`](notebooks/01_do_texto_ao_vetor.ipynb) · [Abrir no Colab](https://colab.research.google.com/github/rglopesdf/mineracao-textos-2026/blob/main/notebooks/01_do_texto_ao_vetor.ipynb) | Pré-processamento, TF-IDF, embeddings e busca semântica | Etapa 1 · entrega 23/11 |
-| 24 e 25/11 | `02_classificar_e_agrupar.ipynb` | Classificação, métricas, agrupamento de temas e análise de erros | Etapa 2 · entrega 30/11 |
+| 24 e 25/11 | [`02_classificar_e_agrupar.ipynb`](notebooks/02_classificar_e_agrupar.ipynb) · [Abrir no Colab](https://colab.research.google.com/github/rglopesdf/mineracao-textos-2026/blob/main/notebooks/02_classificar_e_agrupar.ipynb) | Classificação, métricas, agrupamento, modelagem de tópicos (LDA) e análise de erros | Etapa 2 · entrega 30/11 |
 | 01 e 02/12 | `03_llm_no_pipeline.ipynb` | LLM com saída estruturada, avaliação, custo e RAG | Etapa 3 · entrega 07/12 |
 | 08 e 09/12 | — | Apresentações dos grupos | Etapa 4 |
 
 ### Cronograma de liberação
 
 - ✅ **Notebook 01** liberado.
-- ⏳ Notebook 02: 24/11.
+- ✅ **Notebook 02** liberado.
 - ⏳ Notebook 03: 01/12.
 
 Cada notebook segue o roteiro das aulas, em blocos **problema → conceito → solução**, e termina com a seção da etapa correspondente do projeto.

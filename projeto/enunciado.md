@@ -58,17 +58,19 @@ Em grupo:
 
 A seção **Etapa 1** do Notebook 01 traz os 7 itens nesta ordem, cada um com instruções, uma célula de código comentada e uma célula para as respostas.
 
-### Etapa 2: Descobrir ou classificar
+### Etapa 2: Classificar e agrupar
 **Laboratório 25/11 · entrega até 30/11, 23h59**
 
-O grupo escolhe um caminho:
+O grupo faz as duas tarefas e pode dividir o trabalho entre os integrantes:
 
-- **Caminho A, descobrir temas:** agrupar as avaliações negativas (notas 1 e 2) com pelo menos dois métodos (por exemplo, K-Means e BERTopic), escolher o número de grupos com critério e nomear cada tema.
-- **Caminho B, classificar:** prever se o cliente recomendaria o produto, comparando TF-IDF e embeddings com Regressão Logística (ou SVM), com métricas por classe.
+- **Classificar:** prever se o cliente recomendaria o produto, comparando TF-IDF e embeddings com Regressão Logística, com métricas por classe, comparação com o baseline e um limiar justificado pelo custo dos erros.
+- **Agrupar:** descobrir os temas das avaliações negativas (notas 1 e 2) com **K-Means** e **LDA**, justificar o número de grupos de cada método, nomear cada tema, dizer se ele é da loja ou do produto e comparar os dois métodos.
 
-Nos dois caminhos: analisar 10 erros (ou 10 casos mal agrupados) e classificá-los em categorias (rótulo duvidoso, ironia, texto ambíguo, assunto novo etc.).
+Análise de erro: 5 erros do classificador e 5 avaliações mal agrupadas, classificados em categorias (rótulo duvidoso, ironia, texto ambíguo, assunto novo etc.), com uma ação para a categoria mais frequente.
 
-Individual: escolher 3 dos erros e propor, para cada um, uma ação concreta de melhoria.
+Individual: escolher 3 erros e propor, para cada um, uma ação concreta de melhoria.
+
+A seção **Etapa 2** do Notebook 02 traz os 5 itens do checklist (amostra 1 ponto, classificação 3, agrupamento 3, análise de erro 3 e individual 5), cada um com instruções, células de código comentadas e células para as respostas. A amostra é a mesma do grupo na Etapa 1.
 
 ### Etapa 3: LLM no pipeline
 **Laboratório 02/12 · entrega até 07/12, 23h59**
