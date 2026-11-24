@@ -64,3 +64,9 @@ jupyter lab
 - Grupos de 1 a 3 pessoas, com um repositório próprio por grupo.
 - **IA generativa para programar é permitida**, desde que declarada no README do grupo. O grupo responde por cada linha.
 - Etapa 3: a chave da API do Gemini fica nos *Secrets* do Colab ou em `.env`. Nunca no repositório.
+
+## Grupo e declaração de uso de IA
+
+- **Integrantes:** Gabrielle Santana, Jhonatan, Marcos e Tiago.
+- **Uso de IA:** utilizamos inteligência artificial para a **organização dos comentários explicando o funcionamento do código** no notebook e para a **revisão do código dos itens da Etapa 1**.
+
